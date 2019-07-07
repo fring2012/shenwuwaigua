@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ShenwuWaiGua:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ShenwuWaiGua_jar</output-path>
+    <root id="archive" name="ShenwuWaiGua.jar">
+      <element id="module-output" name="ShenwuWaiGua" />
+    </root>
+  </artifact>
+</component>

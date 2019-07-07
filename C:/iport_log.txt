@@ -1,0 +1,445 @@
+2019-04-24 22:40:05.955 00001 Controller!: Controller.ready start!
+2019-04-24 22:40:05.967 00001 Controller!: Controller.ready end!
+2019-04-24 22:43:37.503 00014 MiddleJPanel: 开启外挂!
+2019-04-24 22:43:37.506 00020 Controller!: 进入循环
+2019-04-24 22:43:37.659 00020 Controller!: hpzero异常!
+2019-04-24 22:43:37.685 00020 PointCollection: 获取到角色血条:Point{x=811, y=117}
+2019-04-24 22:43:37.700 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:43:37.701 00020 OnArenaStrategyImpl: masterCaidan:-11878222;petCaidan:-11878222
+2019-04-24 22:43:37.702 00020 OnArenaStrategyImpl: 进入策略!
+2019-04-24 22:43:37.703 00020 OnArenaStrategyImpl: 目标坐标:Point{x=486, y=575}
+2019-04-24 22:43:38.800 00020 OnArenaStrategyImpl: 策略执行完毕!
+2019-04-24 22:43:41.802 00020 Controller!: 进入循环
+2019-04-24 22:43:41.928 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:43:41.929 00020 OnArenaStrategyImpl: masterCaidan:-13741485;petCaidan:-11045169
+2019-04-24 22:43:44.930 00020 Controller!: 进入循环
+2019-04-24 22:43:45.059 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:43:45.060 00020 OnArenaStrategyImpl: masterCaidan:-13741485;petCaidan:-10386458
+2019-04-24 22:43:48.061 00020 Controller!: 进入循环
+2019-04-24 22:43:48.206 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:43:48.207 00020 OnArenaStrategyImpl: masterCaidan:-13741485;petCaidan:-10386458
+2019-04-24 22:43:51.208 00020 Controller!: 进入循环
+2019-04-24 22:43:51.335 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:43:51.336 00020 OnArenaStrategyImpl: masterCaidan:-13741485;petCaidan:-13999007
+2019-04-24 22:43:54.337 00020 Controller!: 进入循环
+2019-04-24 22:43:54.463 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:43:54.464 00020 OnArenaStrategyImpl: masterCaidan:-13741485;petCaidan:-10386458
+2019-04-24 22:43:57.465 00020 Controller!: 进入循环
+2019-04-24 22:43:57.596 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:43:57.597 00020 OnArenaStrategyImpl: masterCaidan:-13741485;petCaidan:-10386458
+2019-04-24 22:44:00.599 00020 Controller!: 进入循环
+2019-04-24 22:44:00.730 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:44:00.731 00020 OnArenaStrategyImpl: masterCaidan:-13741485;petCaidan:-11045169
+2019-04-24 22:44:03.732 00020 Controller!: 进入循环
+2019-04-24 22:44:03.876 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:44:03.877 00020 OnArenaStrategyImpl: masterCaidan:-13741485;petCaidan:-11045169
+2019-04-24 22:44:06.878 00020 Controller!: 进入循环
+2019-04-24 22:44:07.014 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:44:07.015 00020 OnArenaStrategyImpl: masterCaidan:-13741485;petCaidan:-11637832
+2019-04-24 22:44:10.015 00020 Controller!: 进入循环
+2019-04-24 22:44:10.133 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:44:10.134 00020 OnArenaStrategyImpl: masterCaidan:-13741485;petCaidan:-11637832
+2019-04-24 22:44:13.134 00020 Controller!: 进入循环
+2019-04-24 22:44:13.261 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:44:13.261 00020 OnArenaStrategyImpl: masterCaidan:-13741485;petCaidan:-11045169
+2019-04-24 22:44:16.262 00020 Controller!: 进入循环
+2019-04-24 22:44:16.392 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:44:16.392 00020 OnArenaStrategyImpl: masterCaidan:-13741485;petCaidan:-11045169
+2019-04-24 22:44:19.393 00020 Controller!: 进入循环
+2019-04-24 22:44:19.508 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:44:19.508 00020 OnArenaStrategyImpl: masterCaidan:-7387337;petCaidan:-4687958
+2019-04-24 22:44:22.509 00020 Controller!: 进入循环
+2019-04-24 22:44:22.641 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:44:22.642 00020 OnArenaStrategyImpl: masterCaidan:-13741485;petCaidan:-10386458
+2019-04-24 22:44:25.642 00020 Controller!: 进入循环
+2019-04-24 22:44:25.771 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:44:25.772 00020 OnArenaStrategyImpl: masterCaidan:-13741485;petCaidan:-11638344
+2019-04-24 22:44:28.772 00020 Controller!: 进入循环
+2019-04-24 22:44:28.909 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:44:28.910 00020 OnArenaStrategyImpl: masterCaidan:-11878222;petCaidan:-11878222
+2019-04-24 22:44:28.910 00020 OnArenaStrategyImpl: 进入策略!
+2019-04-24 22:44:28.911 00020 OnArenaStrategyImpl: 目标坐标:Point{x=486, y=575}
+2019-04-24 22:44:29.938 00020 OnArenaStrategyImpl: 策略执行完毕!
+2019-04-24 22:44:32.940 00020 Controller!: 进入循环
+2019-04-24 22:44:33.072 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:44:33.072 00020 OnArenaStrategyImpl: masterCaidan:-13741485;petCaidan:-10386458
+2019-04-24 22:44:36.073 00020 Controller!: 进入循环
+2019-04-24 22:44:36.206 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:44:36.207 00020 OnArenaStrategyImpl: masterCaidan:-13741485;petCaidan:-11374653
+2019-04-24 22:44:39.207 00020 Controller!: 进入循环
+2019-04-24 22:44:39.347 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:44:39.348 00020 OnArenaStrategyImpl: masterCaidan:-13741485;petCaidan:-12296543
+2019-04-24 22:44:42.349 00020 Controller!: 进入循环
+2019-04-24 22:44:42.487 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:44:42.488 00020 OnArenaStrategyImpl: masterCaidan:-13741485;petCaidan:-13999007
+2019-04-24 22:44:45.488 00020 Controller!: 进入循环
+2019-04-24 22:44:45.620 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:44:45.621 00020 OnArenaStrategyImpl: masterCaidan:-13741485;petCaidan:-11374653
+2019-04-24 22:44:48.622 00020 Controller!: 进入循环
+2019-04-24 22:44:48.751 00020 OnArenaStrategyImpl: 结束战斗!
+2019-04-24 22:44:51.751 00020 Controller!: 进入循环
+2019-04-24 22:44:51.876 00020 OnArenaStrategyImpl: 结束战斗!
+2019-04-24 22:44:54.876 00020 Controller!: 进入循环
+2019-04-24 22:44:55.006 00020 OnArenaStrategyImpl: 结束战斗!
+2019-04-24 22:44:58.007 00020 Controller!: 进入循环
+2019-04-24 22:44:58.137 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:44:58.138 00020 OnArenaStrategyImpl: masterCaidan:-12010064;petCaidan:-12009808
+2019-04-24 22:44:58.138 00020 OnArenaStrategyImpl: 进入策略!
+2019-04-24 22:44:58.138 00020 OnArenaStrategyImpl: 目标坐标:Point{x=486, y=575}
+2019-04-24 22:44:59.147 00020 OnArenaStrategyImpl: 策略执行完毕!
+2019-04-24 22:45:02.148 00020 Controller!: 进入循环
+2019-04-24 22:45:02.274 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:45:02.275 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-12362337
+2019-04-24 22:45:05.275 00020 Controller!: 进入循环
+2019-04-24 22:45:05.402 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:45:05.403 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-11769674
+2019-04-24 22:45:08.403 00020 Controller!: 进入循环
+2019-04-24 22:45:08.526 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:45:08.526 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-11769162
+2019-04-24 22:45:11.527 00020 Controller!: 进入循环
+2019-04-24 22:45:11.655 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:45:11.655 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-14064800
+2019-04-24 22:45:14.656 00020 Controller!: 进入循环
+2019-04-24 22:45:14.781 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:45:14.782 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-12362337
+2019-04-24 22:45:17.783 00020 Controller!: 进入循环
+2019-04-24 22:45:17.909 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:45:17.910 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-11769674
+2019-04-24 22:45:20.911 00020 Controller!: 进入循环
+2019-04-24 22:45:21.036 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:45:21.037 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-11769162
+2019-04-24 22:45:24.037 00020 Controller!: 进入循环
+2019-04-24 22:45:24.162 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:45:24.163 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-11176499
+2019-04-24 22:45:27.163 00020 Controller!: 进入循环
+2019-04-24 22:45:27.287 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:45:27.287 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-11176499
+2019-04-24 22:45:30.288 00020 Controller!: 进入循环
+2019-04-24 22:45:30.411 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:45:30.412 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-10517789
+2019-04-24 22:45:33.412 00020 Controller!: 进入循环
+2019-04-24 22:45:33.533 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:45:33.533 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-11505983
+2019-04-24 22:45:36.534 00020 Controller!: 进入循环
+2019-04-24 22:45:36.659 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:45:36.659 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-12362337
+2019-04-24 22:45:39.660 00020 Controller!: 进入循环
+2019-04-24 22:45:39.787 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:45:39.788 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-11769674
+2019-04-24 22:45:42.789 00020 Controller!: 进入循环
+2019-04-24 22:45:42.915 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:45:42.915 00020 OnArenaStrategyImpl: masterCaidan:-12229529;petCaidan:-10848832
+2019-04-24 22:45:45.916 00020 Controller!: 进入循环
+2019-04-24 22:45:46.047 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:45:46.048 00020 OnArenaStrategyImpl: masterCaidan:-12236701;petCaidan:-394501
+2019-04-24 22:45:49.048 00020 Controller!: 进入循环
+2019-04-24 22:45:49.174 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:45:49.174 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-11176499
+2019-04-24 22:45:52.175 00020 Controller!: 进入循环
+2019-04-24 22:45:52.293 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:45:52.294 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-11505983
+2019-04-24 22:45:55.294 00020 Controller!: 进入循环
+2019-04-24 22:45:55.419 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:45:55.419 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-11505983
+2019-04-24 22:45:58.420 00020 Controller!: 进入循环
+2019-04-24 22:45:58.547 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:45:58.547 00020 OnArenaStrategyImpl: masterCaidan:-12010064;petCaidan:-12009808
+2019-04-24 22:45:58.548 00020 OnArenaStrategyImpl: 进入策略!
+2019-04-24 22:45:58.548 00020 OnArenaStrategyImpl: 目标坐标:Point{x=486, y=575}
+2019-04-24 22:45:59.560 00020 OnArenaStrategyImpl: 策略执行完毕!
+2019-04-24 22:46:02.561 00020 Controller!: 进入循环
+2019-04-24 22:46:02.688 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:46:02.688 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-11176499
+2019-04-24 22:46:05.689 00020 Controller!: 进入循环
+2019-04-24 22:46:05.813 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:46:05.814 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-10517789
+2019-04-24 22:46:08.814 00020 Controller!: 进入循环
+2019-04-24 22:46:08.935 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:46:08.935 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-10517789
+2019-04-24 22:46:11.936 00020 Controller!: 进入循环
+2019-04-24 22:46:12.067 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:46:12.067 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-12362337
+2019-04-24 22:46:15.068 00020 Controller!: 进入循环
+2019-04-24 22:46:15.190 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:46:15.190 00020 OnArenaStrategyImpl: masterCaidan:-15060686;petCaidan:-11769674
+2019-04-24 22:46:18.191 00020 Controller!: 进入循环
+2019-04-24 22:46:18.314 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:46:18.314 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-14064800
+2019-04-24 22:46:21.315 00020 Controller!: 进入循环
+2019-04-24 22:46:21.440 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:46:21.440 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-10517789
+2019-04-24 22:46:24.441 00020 Controller!: 进入循环
+2019-04-24 22:46:24.569 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:46:24.569 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-12362337
+2019-04-24 22:46:27.569 00020 Controller!: 进入循环
+2019-04-24 22:46:27.691 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:46:27.691 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-11769674
+2019-04-24 22:46:30.692 00020 Controller!: 进入循环
+2019-04-24 22:46:30.818 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:46:30.818 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-10517789
+2019-04-24 22:46:33.818 00020 Controller!: 进入循环
+2019-04-24 22:46:33.940 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:46:33.941 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-12362337
+2019-04-24 22:46:36.942 00020 Controller!: 进入循环
+2019-04-24 22:46:37.065 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:46:37.066 00020 OnArenaStrategyImpl: masterCaidan:-13807277;petCaidan:-11176499
+2019-04-24 22:46:40.066 00020 Controller!: 进入循环
+2019-04-24 22:46:40.201 00020 OnArenaStrategyImpl: 结束战斗!
+2019-04-24 22:46:43.202 00020 Controller!: 进入循环
+2019-04-24 22:46:43.326 00020 OnArenaStrategyImpl: 结束战斗!
+2019-04-24 22:46:46.327 00020 Controller!: 进入循环
+2019-04-24 22:46:46.454 00020 OnArenaStrategyImpl: 结束战斗!
+2019-04-24 22:46:49.454 00020 Controller!: 进入循环
+2019-04-24 22:46:49.577 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:46:49.577 00020 OnArenaStrategyImpl: masterCaidan:-12010064;petCaidan:-12009808
+2019-04-24 22:46:49.577 00020 OnArenaStrategyImpl: 进入策略!
+2019-04-24 22:46:49.578 00020 OnArenaStrategyImpl: 目标坐标:Point{x=486, y=575}
+2019-04-24 22:46:50.598 00020 OnArenaStrategyImpl: 策略执行完毕!
+2019-04-24 22:46:53.599 00020 Controller!: 进入循环
+2019-04-24 22:46:53.725 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:46:53.726 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-11505983
+2019-04-24 22:46:56.726 00020 Controller!: 进入循环
+2019-04-24 22:46:56.853 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:46:56.854 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-12362337
+2019-04-24 22:46:59.854 00020 Controller!: 进入循环
+2019-04-24 22:46:59.996 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:46:59.997 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-12362337
+2019-04-24 22:47:02.997 00020 Controller!: 进入循环
+2019-04-24 22:47:03.120 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:47:03.120 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-14196387
+2019-04-24 22:47:06.121 00020 Controller!: 进入循环
+2019-04-24 22:47:06.246 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:47:06.246 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-11769674
+2019-04-24 22:47:09.247 00020 Controller!: 进入循环
+2019-04-24 22:47:09.375 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:47:09.375 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-11769162
+2019-04-24 22:47:12.376 00020 Controller!: 进入循环
+2019-04-24 22:47:12.502 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:47:12.503 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-11176499
+2019-04-24 22:47:15.503 00020 Controller!: 进入循环
+2019-04-24 22:47:15.633 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:47:15.633 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-10517789
+2019-04-24 22:47:18.634 00020 Controller!: 进入循环
+2019-04-24 22:47:18.758 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:47:18.758 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-10517789
+2019-04-24 22:47:21.759 00020 Controller!: 进入循环
+2019-04-24 22:47:21.882 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:47:21.882 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-11176499
+2019-04-24 22:47:24.882 00020 Controller!: 进入循环
+2019-04-24 22:47:25.008 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:47:25.008 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-12362337
+2019-04-24 22:47:28.009 00020 Controller!: 进入循环
+2019-04-24 22:47:28.133 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:47:28.133 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-11769674
+2019-04-24 22:47:31.133 00020 Controller!: 进入循环
+2019-04-24 22:47:31.250 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:47:31.251 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-11769162
+2019-04-24 22:47:34.251 00020 Controller!: 进入循环
+2019-04-24 22:47:34.369 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:47:34.370 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-10517789
+2019-04-24 22:47:37.370 00020 Controller!: 进入循环
+2019-04-24 22:47:37.496 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:47:37.496 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-11176499
+2019-04-24 22:47:40.497 00020 Controller!: 进入循环
+2019-04-24 22:47:40.620 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:47:40.620 00020 OnArenaStrategyImpl: masterCaidan:-12010064;petCaidan:-12009808
+2019-04-24 22:47:40.621 00020 OnArenaStrategyImpl: 进入策略!
+2019-04-24 22:47:40.621 00020 OnArenaStrategyImpl: 目标坐标:Point{x=486, y=575}
+2019-04-24 22:47:41.634 00020 OnArenaStrategyImpl: 策略执行完毕!
+2019-04-24 22:47:44.635 00020 Controller!: 进入循环
+2019-04-24 22:47:44.757 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:47:44.758 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-11176499
+2019-04-24 22:47:47.758 00020 Controller!: 进入循环
+2019-04-24 22:47:47.881 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:47:47.881 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-10517789
+2019-04-24 22:47:50.882 00020 Controller!: 进入循环
+2019-04-24 22:47:51.009 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:47:51.009 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-12362337
+2019-04-24 22:47:54.010 00020 Controller!: 进入循环
+2019-04-24 22:47:54.138 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:47:54.139 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-12362337
+2019-04-24 22:47:57.139 00020 Controller!: 进入循环
+2019-04-24 22:47:57.269 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:47:57.269 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-14196387
+2019-04-24 22:48:00.269 00020 Controller!: 进入循环
+2019-04-24 22:48:00.398 00020 OnArenaStrategyImpl: 进入战斗!
+2019-04-24 22:48:00.398 00020 OnArenaStrategyImpl: masterCaidan:-13609639;petCaidan:-6308415
+2019-04-26 06:23:12.424 00001 PointCollection: 获取到角色血条:Point{x=628, y=205}
+2019-04-26 06:23:12.434 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:23:44.557 00001 PointCollection: 获取到角色血条失败:Point{x=-1, y=-1}
+2019-04-26 06:23:54.017 00001 PointCollection: 获取到角色血条:Point{x=628, y=205}
+2019-04-26 06:23:54.027 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:24:17.778 00001 PointCollection: 获取到角色血条:Point{x=628, y=205}
+2019-04-26 06:24:17.785 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:24:26.359 00001 PointCollection: 获取到角色血条:Point{x=628, y=205}
+2019-04-26 06:24:26.366 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:24:35.810 00001 PointCollection: 获取到角色血条:Point{x=628, y=205}
+2019-04-26 06:24:35.817 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:24:44.779 00001 PointCollection: 获取到角色血条:Point{x=628, y=205}
+2019-04-26 06:24:44.788 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:24:51.614 00001 PointCollection: 获取到角色血条:Point{x=628, y=205}
+2019-04-26 06:24:51.623 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:25:03.349 00001 PointCollection: 获取到角色血条:Point{x=628, y=205}
+2019-04-26 06:25:03.356 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:25:10.887 00001 PointCollection: 获取到角色血条:Point{x=628, y=205}
+2019-04-26 06:25:10.894 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:25:30.494 00001 PointCollection: 获取到角色血条:Point{x=628, y=205}
+2019-04-26 06:25:30.501 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:26:18.300 00001 PointCollection: 获取到角色血条失败:Point{x=-1, y=-1}
+2019-04-26 06:26:30.412 00001 PointCollection: 获取到角色血条:Point{x=694, y=164}
+2019-04-26 06:26:30.420 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:26:41.114 00001 PointCollection: 获取到角色血条:Point{x=694, y=164}
+2019-04-26 06:26:41.120 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:27:00.518 00001 PointCollection: 获取到角色血条:Point{x=694, y=164}
+2019-04-26 06:27:00.527 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:27:13.921 00001 PointCollection: 获取到角色血条:Point{x=694, y=164}
+2019-04-26 06:27:13.928 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:27:22.438 00001 PointCollection: 获取到角色血条:Point{x=694, y=164}
+2019-04-26 06:27:22.447 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:27:35.324 00001 PointCollection: 获取到角色血条:Point{x=694, y=164}
+2019-04-26 06:27:35.331 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:27:42.645 00001 PointCollection: 获取到角色血条:Point{x=694, y=164}
+2019-04-26 06:27:42.653 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:27:49.064 00001 PointCollection: 获取到角色血条:Point{x=694, y=164}
+2019-04-26 06:27:49.071 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:32:21.320 00001 PointCollection: 获取到角色血条:Point{x=587, y=151}
+2019-04-26 06:32:21.327 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:32:39.084 00001 PointCollection: 获取到角色血条:Point{x=587, y=151}
+2019-04-26 06:32:39.091 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:32:48.459 00001 PointCollection: 获取到角色血条:Point{x=587, y=151}
+2019-04-26 06:32:48.465 00001 PointCollection: 抓取到boss坐标
+2019-04-26 06:46:56.303 00001 PointCollection: 获取到角色血条失败:Point{x=-1, y=-1}
+2019-04-26 06:47:18.803 00001 Controller!: Controller.ready start!
+2019-04-26 06:47:18.814 00001 Controller!: Controller.ready end!
+2019-04-26 15:06:03.330 00001 PointCollection: 获取到角色血条:Point{x=848, y=121}
+2019-04-26 15:06:03.341 00001 PointCollection: 抓取到boss坐标
+2019-04-26 15:06:22.317 00001 PointCollection: 获取到角色血条:Point{x=848, y=121}
+2019-04-26 15:06:22.324 00001 PointCollection: 抓取到boss坐标
+2019-04-26 15:06:31.492 00001 PointCollection: 获取到角色血条:Point{x=848, y=121}
+2019-04-26 15:06:31.499 00001 PointCollection: 抓取到boss坐标
+2019-04-26 15:06:40.917 00001 PointCollection: 获取到角色血条:Point{x=848, y=121}
+2019-04-26 15:06:40.925 00001 PointCollection: 抓取到boss坐标
+2019-04-26 15:13:26.651 00001 PointCollection: 获取到角色血条:Point{x=848, y=121}
+2019-04-26 15:13:26.658 00001 PointCollection: 抓取到boss坐标
+2019-04-26 15:21:11.599 00001 PointCollection: 获取到角色血条失败:Point{x=-1, y=-1}
+2019-04-26 15:21:38.181 00001 Controller!: Controller.ready start!
+2019-04-26 15:21:38.191 00001 Controller!: Controller.ready end!
+2019-04-26 15:22:18.509 00001 Controller!: Controller.ready start!
+2019-04-26 15:22:18.521 00001 Controller!: Controller.ready end!
+2019-04-26 15:22:33.898 00001 Controller!: Controller.ready start!
+2019-04-26 15:22:33.907 00001 Controller!: Controller.ready end!
+2019-04-26 15:24:20.815 00001 PointCollection: 获取到角色血条:Point{x=848, y=121}
+2019-04-26 15:24:20.822 00001 PointCollection: 抓取到boss坐标
+2019-04-26 15:24:47.768 00001 PointCollection: 获取到角色血条:Point{x=848, y=121}
+2019-04-26 15:24:47.776 00001 PointCollection: 抓取到boss坐标
+2019-04-26 15:24:53.841 00001 PointCollection: 获取到角色血条:Point{x=848, y=121}
+2019-04-26 15:24:53.850 00001 PointCollection: 抓取到boss坐标
+2019-04-26 15:27:50.822 00001 PointCollection: 获取到角色血条:Point{x=848, y=121}
+2019-04-26 15:27:50.832 00001 PointCollection: 抓取到boss坐标
+2019-04-26 15:28:06.501 00001 PointCollection: 获取到角色血条:Point{x=848, y=121}
+2019-04-26 15:28:06.512 00001 PointCollection: 抓取到boss坐标
+2019-04-26 15:28:26.162 00001 PointCollection: 获取到角色血条:Point{x=848, y=121}
+2019-04-26 15:28:26.169 00001 PointCollection: 抓取到boss坐标
+2019-04-26 15:34:18.498 00001 PointCollection: 获取到角色血条失败:Point{x=-1, y=-1}
+2019-04-26 15:34:25.374 00001 PointCollection: 获取到角色血条:Point{x=812, y=121}
+2019-04-26 15:34:25.384 00001 PointCollection: 抓取到boss坐标
+2019-04-26 15:40:03.153 00001 PointCollection: 获取到角色血条:Point{x=812, y=121}
+2019-04-26 15:40:03.161 00001 PointCollection: 抓取到boss坐标
+2019-04-26 15:40:39.944 00001 Controller!: Controller.ready start!
+2019-04-26 15:40:39.953 00001 Controller!: Controller.ready end!
+2019-04-26 15:42:12.081 00001 Controller!: Controller.ready start!
+2019-04-26 15:42:12.091 00001 Controller!: Controller.ready end!
+2019-04-26 16:03:14.551 00001 Controller!: Controller.ready start!
+2019-04-26 16:03:14.560 00001 Controller!: Controller.ready end!
+2019-04-26 16:04:29.046 00001 Controller!: Controller.ready start!
+2019-04-26 16:04:29.054 00001 Controller!: Controller.ready end!
+2019-04-26 17:58:58.203 00001 Controller!: Controller.ready start!
+2019-04-26 17:58:58.214 00001 Controller!: Controller.ready end!
+2019-04-26 18:00:59.316 00001 PointCollection: 获取到角色血条:Point{x=843, y=127}
+2019-04-26 18:00:59.324 00001 PointCollection: 抓取到boss坐标
+2019-04-26 18:37:50.353 00001 Controller!: Controller.ready start!
+2019-04-26 18:37:50.365 00001 Controller!: Controller.ready end!
+2019-04-29 22:11:07.386 00001 PointCollection: 获取到角色血条:Point{x=927, y=128}
+2019-04-29 22:11:07.398 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:37:27.820 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:37:27.827 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:37:34.681 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:37:34.690 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:37:40.249 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:37:40.256 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:37:45.760 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:37:45.768 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:37:56.667 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:37:56.673 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:38:03.429 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:38:03.436 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:38:08.603 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:38:08.610 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:38:13.003 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:38:13.011 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:38:17.893 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:38:17.900 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:38:22.853 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:38:22.863 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:38:27.572 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:38:27.580 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:38:32.457 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:38:32.467 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:38:37.219 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:38:37.227 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:38:46.576 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:38:46.583 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:39:04.276 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:39:04.283 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:39:14.982 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:39:14.992 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:39:22.479 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:39:22.489 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:40:03.167 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:40:03.174 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:40:09.019 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:40:09.028 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:40:14.559 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:40:14.569 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:40:19.609 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:40:19.617 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:40:24.349 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:40:24.357 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:40:29.658 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:40:29.666 00001 PointCollection: 抓取到boss坐标
+2019-04-29 22:40:43.162 00001 PointCollection: 获取到角色血条失败:Point{x=-1, y=-1}
+2019-04-29 22:41:03.327 00001 PointCollection: 获取到角色血条:Point{x=892, y=128}
+2019-04-29 22:41:03.335 00001 PointCollection: 抓取到boss坐标
+2019-05-02 19:43:40.318 00001 PointCollection: 获取到角色血条失败:Point{x=-1, y=-1}
+2019-05-02 19:43:55.218 00001 Controller!: Controller.ready start!
+2019-05-02 19:43:55.227 00001 Controller!: Controller.ready end!
+2019-05-02 19:43:58.910 00014 Controller!: checkButtonStateChange:CheckStateVO{renewHp=true, renewMp=false, renewBbHp=false, renewBbMp=true, handleDiolog=true}
+2019-05-02 19:44:11.862 00014 Controller!: checkButtonStateChange:CheckStateVO{renewHp=true, renewMp=false, renewBbHp=false, renewBbMp=true, handleDiolog=false}
+2019-05-02 19:57:53.921 00001 Controller!: Controller.ready start!
+2019-05-02 19:57:53.930 00001 Controller!: Controller.ready end!
+2019-05-20 22:16:22.465 00001 Controller!: Controller.ready start!
+2019-05-20 22:16:22.490 00001 Controller!: Controller.ready end!
+2019-07-06 10:54:33.967 00001 Controller!: Controller.ready start!
+2019-07-06 10:54:33.990 00001 Controller!: Controller.ready end!
+2019-07-06 10:54:34.229 00001 PointCollection: 获取到角色血条:Point{x=748, y=117}
+2019-07-06 10:54:34.234 00001 PointCollection: 抓取到boss坐标
+2019-07-06 10:54:38.341 00014 MiddleJPanel: 开启外挂!
+2019-07-06 10:54:38.468 00019 PointCollection: 获取到角色血条:Point{x=748, y=117}
+2019-07-06 10:54:38.469 00019 PointCollection: 抓取到boss坐标
+2019-07-06 10:54:38.470 00019 Controller!: 进入循环
+2019-07-06 10:54:38.603 00019 OnArenaStrategyImpl: 结束战斗!
+2019-07-06 10:54:40.812 00014 MiddleJPanel: 关闭外挂!
+2019-07-06 10:55:00.971 00001 PointCollection: 获取到角色血条:Point{x=748, y=117}
+2019-07-06 10:55:00.978 00001 PointCollection: 抓取到boss坐标
+2019-07-06 10:55:24.043 00001 PointCollection: 获取到角色血条:Point{x=748, y=117}
+2019-07-06 10:55:24.050 00001 PointCollection: 抓取到boss坐标
+2019-07-06 10:56:31.416 00001 PointCollection: 获取到角色血条:Point{x=748, y=117}
+2019-07-06 10:56:31.424 00001 PointCollection: 抓取到boss坐标
+2019-07-06 10:57:03.621 00001 PointCollection: 获取到角色血条:Point{x=748, y=117}
+2019-07-06 10:57:03.628 00001 PointCollection: 抓取到boss坐标
+2019-07-06 10:57:16.100 00001 PointCollection: 获取到角色血条:Point{x=748, y=117}
+2019-07-06 10:57:16.108 00001 PointCollection: 抓取到boss坐标
+2019-07-06 10:58:04.179 00001 PointCollection: 获取到角色血条:Point{x=748, y=117}
+2019-07-06 10:58:04.188 00001 PointCollection: 抓取到boss坐标
+2019-07-06 11:01:51.001 00001 PointCollection: 获取到角色血条:Point{x=748, y=117}
+2019-07-06 11:01:51.009 00001 PointCollection: 抓取到boss坐标
