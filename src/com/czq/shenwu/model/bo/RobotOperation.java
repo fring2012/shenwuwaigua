@@ -27,19 +27,19 @@ public class RobotOperation {
      * 移动鼠标到point
      */
     public  void mouseMove(Point point) {
-        int num = 1;
-        do {
-            ++num;
-            mRobot.mouseMove(num, 1);
-        } while(num != point.x && num <= point.x && num <= ScreenInfo.SCREEN_WIDTH -1);
-
-        int nom = 1;
-
-        do {
-            ++nom;
-            mRobot.mouseMove(num, nom);
-        } while(nom != point.y && nom <= point.y && nom <= ScreenInfo.SCREEN_HEIGHT);
-//        mRobot.mouseMove(point.x,point.y);
+//        int num = 1;
+//        do {
+//            ++num;
+//            mRobot.mouseMove(num, 1);
+//        } while(num != point.x && num <= point.x && num <= ScreenInfo.SCREEN_WIDTH -1);
+//
+//        int nom = 1;
+//
+//        do {
+//            ++nom;
+//            mRobot.mouseMove(num, nom);
+//        } while(nom != point.y && nom <= point.y && nom <= ScreenInfo.SCREEN_HEIGHT);
+        mRobot.mouseMove(point.x,point.y);
 
     }
 
