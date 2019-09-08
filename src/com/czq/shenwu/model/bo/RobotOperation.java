@@ -5,7 +5,7 @@ import com.czq.shenwu.utils.ThreadUtil;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;
-import com.czq.shenwu.model.Point;
+import com.czq.shenwu.model.pojo.Point;
 
 public class RobotOperation {
     private  Robot mRobot;

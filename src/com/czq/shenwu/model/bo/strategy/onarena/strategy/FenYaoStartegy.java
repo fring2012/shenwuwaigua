@@ -1,13 +1,11 @@
 package com.czq.shenwu.model.bo.strategy.onarena.strategy;
 
 import com.czq.shenwu.constant.SizeConstant;
-import com.czq.shenwu.model.Point;
+import com.czq.shenwu.model.pojo.Point;
 import com.czq.shenwu.model.bo.BGRCollection;
 import com.czq.shenwu.model.bo.MouseOperation;
 import com.czq.shenwu.model.bo.PointCollection;
 import com.czq.shenwu.model.bo.strategy.OnArenaStrategyImpl;
-import com.czq.shenwu.model.vo.CheckStateVO;
-import com.czq.shenwu.ui.MainJFrame;
 import com.czq.shenwu.utils.LogUtils;
 
 import java.awt.event.KeyEvent;
@@ -26,17 +24,24 @@ public class FenYaoStartegy extends OnArenaStrategyImpl {
 
 
     @Override
-    protected Point confirmTarget(BufferedImage bi) {
-        Point target = null;
+    protected boolean confirmTarget(BufferedImage bi) {
+
         LogUtils.d(TAG,"npcBGR:" + BGRCollection.getInstance().getPointBGR(bi,PointCollection.NpcName.UNDER_FOURTH.getPoint()));
         if (npcIsAlive(bi,PointCollection.NpcName.UNDER_FIFTH)) {
-            target = PointCollection.NpcName.UNDER_FIFTH.getPoint();
-            mouseSelect = KeyEvent.BUTTON1_MASK;
+            masterOperate.setPoint(PointCollection.NpcName.UNDER_FIFTH.getPoint());
+            masterOperate.setMouse(KeyEvent.BUTTON1_MASK);
+            petOperate.setPoint(PointCollection.NpcName.BOSS.getPoint());
+            petOperate.setMouse(KeyEvent.BUTTON3_MASK);
         } else {
-            target = new Point(PointCollection.getInstance().hpZeroPoint, SizeConstant.PU_TONG_ZHEN_BOSS_ZERO_HP_DX
-                            , SizeConstant.PU_TONG_ZHEN_BOSS_ZERO_HP_DY);
+            Point point =  new Point(PointCollection.getInstance().hpZeroPoint, SizeConstant.PU_TONG_ZHEN_BOSS_ZERO_HP_DX
+                    , SizeConstant.PU_TONG_ZHEN_BOSS_ZERO_HP_DY);
+            masterOperate.setPoint(point);
+            masterOperate.setMouse(KeyEvent.BUTTON3_MASK);
+            petOperate.setPoint(point);
+            petOperate.setMouse(KeyEvent.BUTTON3_MASK);
         }
-        return target;
+
+        return true;
     }
 
     @Override

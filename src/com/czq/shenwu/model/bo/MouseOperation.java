@@ -1,24 +1,51 @@
 package com.czq.shenwu.model.bo;
 
+import com.czq.shenwu.model.pojo.MouseOperate;
+import com.czq.shenwu.utils.LogUtils;
 import com.czq.shenwu.utils.ThreadUtil;
 
 import java.awt.event.KeyEvent;
 
-import com.czq.shenwu.model.Point;
+import com.czq.shenwu.model.pojo.Point;
 
 /**
  * 鼠标操作类
  */
 public class MouseOperation {
 
+    public static void operationMouse(MouseOperate mouseOperate) {
+        if (mouseOperate == null) {
+            LogUtils.d("MouseOperation","mouseOperate is null!!");
+            return;
+        }
+        mouseMoveAndClickMouse(mouseOperate.getPoint(),mouseOperate.getMouse());
+    }
+    /**
+     * 单击鼠标
+     * @param mouse
+     */
+    public static void clickMouseRelease(int mouse) {
+        RobotOperation.getInstance().mouseRelease(mouse);
+    }
+    /**
+     * 移动到指定坐标单击鼠标
+     * @param point 指定坐标
+     * @param mouse
+     */
+    public static void mouseMoveAndClickMouse(Point point, int mouse)  {
+        RobotOperation.getInstance().mouseMove(point);
+        ThreadUtil.sleep(100L);
+        clickMouseRelease(mouse);
+    }
+
     /**
      * 双击鼠标
      * @param mouse
      */
     public  static void doubleMouseRelease(int mouse)  {
-        RobotOperation.getInstance().mouseRelease(mouse);
+        clickMouseRelease(mouse);
         ThreadUtil.sleep(50L);
-        RobotOperation.getInstance().mouseRelease(mouse);
+        clickMouseRelease(mouse);
         ThreadUtil.sleep(50L);
     }
 
@@ -27,7 +54,7 @@ public class MouseOperation {
      * @param point 指定坐标
      * @param mouse
      */
-    public  static void mouseMoveAndDoubleMouse(Point point, int mouse)  {
+    public static void mouseMoveAndDoubleMouse(Point point, int mouse)  {
         RobotOperation.getInstance().mouseMove(point);
         ThreadUtil.sleep(100L);
         doubleMouseRelease(mouse);

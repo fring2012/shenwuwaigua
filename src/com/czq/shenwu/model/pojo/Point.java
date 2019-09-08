@@ -1,4 +1,4 @@
-package com.czq.shenwu.model;
+package com.czq.shenwu.model.pojo;
 
 public class Point {
 

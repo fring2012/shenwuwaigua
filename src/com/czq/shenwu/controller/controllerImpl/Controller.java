@@ -3,7 +3,6 @@ package com.czq.shenwu.controller.controllerImpl;
 
 import com.czq.shenwu.constant.Strategy;
 import com.czq.shenwu.controller.IController;
-import com.czq.shenwu.model.Point;
 import com.czq.shenwu.model.bo.BGRCollection;
 import com.czq.shenwu.model.bo.PointCollection;
 import com.czq.shenwu.model.bo.RobotOperation;
@@ -21,7 +20,6 @@ import com.czq.shenwu.ui.view.IView;
 import com.czq.shenwu.utils.LogUtils;
 import com.czq.shenwu.utils.ThreadUtil;
 
-import java.awt.event.KeyEvent;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 import java.util.List;

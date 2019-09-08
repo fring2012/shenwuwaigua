@@ -3,20 +3,10 @@ package com.czq.shenwu;
 
 import com.czq.shenwu.controller.IController;
 import com.czq.shenwu.controller.controllerImpl.Controller;
-import com.czq.shenwu.model.Point;
-import com.czq.shenwu.model.bo.BGRCollection;
-import com.czq.shenwu.model.bo.MouseOperation;
-import com.czq.shenwu.model.bo.PointCollection;
-import com.czq.shenwu.model.bo.RobotOperation;
-import com.czq.shenwu.model.pojo.IThemeBGRInfo;
-import com.czq.shenwu.model.pojo.ScreenInfo;
-import com.czq.shenwu.model.pojo.themebgrinfoImpl.BlueThemeBGRImpl;
 import com.czq.shenwu.ui.MainJFrame;
 import com.czq.shenwu.ui.view.IView;
-import com.czq.shenwu.utils.LogUtils;
 
 import javax.swing.*;
-import java.awt.image.BufferedImage;
 
 public class main {
 

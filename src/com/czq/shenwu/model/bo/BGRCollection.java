@@ -1,6 +1,6 @@
 package com.czq.shenwu.model.bo;
 
-import com.czq.shenwu.model.Point;
+import com.czq.shenwu.model.pojo.Point;
 import com.czq.shenwu.model.pojo.IThemeBGRInfo;
 import com.czq.shenwu.model.pojo.themebgrinfoImpl.BlueThemeBGRImpl;
 

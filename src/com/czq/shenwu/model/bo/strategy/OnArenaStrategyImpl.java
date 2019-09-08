@@ -1,25 +1,19 @@
 package com.czq.shenwu.model.bo.strategy;
 
-import com.czq.shenwu.model.Point;
+import com.czq.shenwu.model.pojo.MouseOperate;
+import com.czq.shenwu.model.pojo.Point;
 import com.czq.shenwu.model.bo.BGRCollection;
 import com.czq.shenwu.model.bo.MouseOperation;
 import com.czq.shenwu.model.bo.PointCollection;
 import com.czq.shenwu.model.bo.RobotOperation;
-import com.czq.shenwu.model.bo.strategy.onarena.strategy.FenYaoStartegy;
 import com.czq.shenwu.model.pojo.IThemeBGRInfo;
-import com.czq.shenwu.model.pojo.ScreenInfo;
 import com.czq.shenwu.model.vo.CheckStateVO;
-import com.czq.shenwu.ui.MainJFrame;
 import com.czq.shenwu.utils.LogUtils;
 import com.czq.shenwu.utils.ThreadUtil;
-import com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ;
-import sun.rmi.runtime.Log;
 
-import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.awt.image.BufferedImage;
-import java.util.ArrayList;
-import java.util.List;
+
 
 
 
@@ -42,6 +36,10 @@ public abstract class OnArenaStrategyImpl implements IStrategy {
 
     public PointCollection mPointCollection = PointCollection.getInstance();
 
+    protected MouseOperate masterOperate = new MouseOperate();
+
+    protected MouseOperate petOperate = new MouseOperate();
+
     public void onArena(BufferedImage bi) {
 
         int battlePointRGB = mBGRCollection.getPointBGR(bi,mPointCollection.battlePoint);
@@ -49,8 +47,8 @@ public abstract class OnArenaStrategyImpl implements IStrategy {
         int caiDanRGB = mBGRCollection.getPointBGR(bi,mPointCollection.caiDanPoint);
         if (battlePointRGB == this.battlePointBGR || caiDanRGB == mBGRCollection.getCaiDanBGR()) {
             if (caiDanRGB == mBGRCollection.getCaiDanBGR()) {
-                MouseOperation.mouseMoveAndDoubleMouse(new Point(mPointCollection.bossPoint.x
-                        + 40, 320), KeyEvent.BUTTON3_MASK);
+                //关闭可能存在的对话框
+                MouseOperation.mouseMoveAndDoubleMouse(mPointCollection.windowMiddle, KeyEvent.BUTTON3_MASK);
                 LogUtils.d(TAG, "进入战斗!");
                 int masterCaiDanRGB1 = mBGRCollection.getPointBGR(bi, mPointCollection.masterCaidanPoint1);
                 int masterCaiDanRGB2 = mBGRCollection.getPointBGR(bi, mPointCollection.masterCaidanPoint2);
@@ -63,9 +61,10 @@ public abstract class OnArenaStrategyImpl implements IStrategy {
                     execute(bi);
                     //双击
                     end();
-                    MouseOperation.mouseMoveAndDoubleMouse(mPointCollection.windowMiddle, KeyEvent.BUTTON3_MASK);
                     LogUtils.d(TAG, "策略执行完毕!");
                 }
+                //关闭可能存在的对话框
+                MouseOperation.mouseMoveAndDoubleMouse(mPointCollection.windowMiddle, KeyEvent.BUTTON3_MASK);
             }
         } else {
             LogUtils.d(TAG,"结束战斗!");
@@ -90,14 +89,13 @@ public abstract class OnArenaStrategyImpl implements IStrategy {
     }
     @Override
     public void execute(BufferedImage bi) {
-        Point target = confirmTarget(bi);
-        LogUtils.d(TAG,"目标坐标:" + target);
-
-
-        if (target != null)
-            MouseOperation.mouseMoveAndDoubleMouse(target,mouseSelect);
-        else
-            end();
+        confirmTarget(bi);
+        if (masterOperate != null) {
+            MouseOperation.operationMouse(masterOperate);
+        }
+        if (petOperate != null) {
+            MouseOperation.operationMouse(petOperate);
+        }
 
     }
 
@@ -106,7 +104,7 @@ public abstract class OnArenaStrategyImpl implements IStrategy {
      * @param bi
      * @return
      */
-    protected abstract Point confirmTarget(BufferedImage bi);
+    protected abstract boolean confirmTarget(BufferedImage bi);
 
 
     /**
@@ -123,7 +121,8 @@ public abstract class OnArenaStrategyImpl implements IStrategy {
      * @return
      */
     public boolean npcIsAlive(BufferedImage bi, PointCollection.NpcName name) {
-        return BGRCollection.NPC_BGR_ALIGIN == BGRCollection.getInstance().getPointBGR(bi,name.getPoint()) ? true : false;
+        return BGRCollection.NPC_BGR_ALIGIN ==
+                BGRCollection.getInstance().getPointBGR(bi,name.getPoint()) ? true : false;
     }
 
     /**

@@ -1,7 +1,7 @@
 package com.czq.shenwu.model.bo;
 
 import com.czq.shenwu.constant.SizeConstant;
-import com.czq.shenwu.model.Point;
+import com.czq.shenwu.model.pojo.Point;
 import com.czq.shenwu.model.pojo.ScreenInfo;
 import com.czq.shenwu.utils.LogUtils;
 
@@ -17,9 +17,9 @@ public class PointCollection {
     public Point sanjiaoPoint = new Point();
 
     public Point caiDanPoint = new Point();
-
+    //无特技的情况下,角色菜单底的
     public Point masterCaidanPoint1 = new Point();
-
+    //有特技的情况下,角色菜单底下
     public Point masterCaidanPoint2 = new Point();
 
     public Point petCaidanPoint = new Point();

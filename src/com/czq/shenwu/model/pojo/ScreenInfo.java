@@ -5,6 +5,9 @@ import com.czq.shenwu.model.bo.RobotOperation;
 import java.awt.*;
 import java.awt.image.BufferedImage;
 
+/**
+ * 屏幕信息
+ */
 public class ScreenInfo {
     public static final Rectangle rec;
 

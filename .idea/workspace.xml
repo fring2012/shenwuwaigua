@@ -7,7 +7,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1410d48-f1c8-4ea6-8f04-4fc82ae01730" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/czq/shenwu/model/pojo/MouseOperate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C:/iport_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C:/iport_log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ShenwuWaiGua_jar/ShenwuWaiGua.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShenwuWaiGua_jar/ShenwuWaiGua.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/controller/controllerImpl/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/controller/controllerImpl/Controller$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/controller/controllerImpl/Controller$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/controller/controllerImpl/Controller$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/controller/controllerImpl/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/controller/controllerImpl/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/BGRCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/BGRCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/MouseOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/MouseOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/PointCollection$NpcName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/PointCollection$NpcName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/PointCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/PointCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/RobotOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/RobotOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/strategy/OnArenaStrategyImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/strategy/OnArenaStrategyImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/strategy/onarena/strategy/FenYaoStartegy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/strategy/onarena/strategy/FenYaoStartegy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/strategy/onarena/strategy/FubenStartegy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/strategy/onarena/strategy/FubenStartegy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiFenYaoStrategyImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiFenYaoStrategyImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiStartegy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiStartegy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/pojo/ScreenInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/pojo/ScreenInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/czq/shenwu/controller/controllerImpl/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czq/shenwu/controller/controllerImpl/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/czq/shenwu/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czq/shenwu/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/czq/shenwu/model/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czq/shenwu/model/pojo/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/BGRCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/BGRCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/MouseOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/MouseOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/PointCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/PointCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/RobotOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/RobotOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/OnArenaStrategyImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/OnArenaStrategyImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/FenYaoStartegy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/FenYaoStartegy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/FubenStartegy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/FubenStartegy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiFenYaoStrategyImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiFenYaoStrategyImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiStartegy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiStartegy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/czq/shenwu/model/pojo/ScreenInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czq/shenwu/model/pojo/ScreenInfo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +53,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/FenYaoStartegy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+            <state relative-caret-position="330">
+              <caret line="30" column="11" lean-forward="true" selection-start-line="30" selection-start-column="11" selection-end-line="31" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/FubenStartegy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="553">
+              <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiFenYaoStrategyImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="25" column="13" lean-forward="true" selection-start-line="24" selection-end-line="25" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiStartegy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,8 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/OnArenaStrategyImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="82" column="90" selection-start-line="82" selection-start-column="90" selection-end-line="82" selection-end-column="90" />
+            <state relative-caret-position="353">
+              <caret line="93" column="36" selection-start-line="93" selection-start-column="36" selection-end-line="93" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,10 +111,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/pojo/ScreenInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="40" selection-end-column="59" />
+            <state relative-caret-position="154">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,44 +123,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/Point.java">
+        <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/pojo/MouseOperate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            <state relative-caret-position="242">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/awt/Event.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1298">
+              <caret line="83" column="28" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/FubenStartegy.java">
+        <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/MouseOperation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-32">
-              <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2693#2694#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/PointCollection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="64" column="20" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="20" />
+            <state relative-caret-position="174">
+              <caret line="37" column="25" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/PointStatsJudge.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="1" selection-start-line="2" selection-end-line="3" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -100,32 +155,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/RobotOperation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="330">
+              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/MouseOperation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/vo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -142,7 +176,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>fenyao</find>
       <find>iStart</find>
       <find>3810079</find>
       <find>sanjiaoX</find>
@@ -172,16 +205,20 @@
       <find>hpzero异常</find>
       <find>PointCollection.getInstance()</find>
       <find>mCheckStateVO</find>
+      <find>ScreenInfo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/BaseStrategy.java" />
-        <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/FubenStartegyImpl.java" />
         <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/BaseStrategyImpl.java" />
         <option value="$PROJECT_DIR$/src/com/czq/shenwu/utils/ThreadUtil.java" />
         <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/BgrProvider.java" />
@@ -198,7 +235,6 @@
         <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/role/IRole.java" />
         <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/pojo/INpc.java" />
         <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/pojo/Npc.java" />
-        <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/MouseOperation.java" />
         <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoxiStartegy.java" />
         <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/vo/CheckStateList.java" />
         <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/vo/CheckStateEntity.java" />
@@ -220,17 +256,20 @@
         <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/vo/CheckStateVO.java" />
         <option value="$PROJECT_DIR$/src/com/czq/shenwu/ui/view/jpanel/LeftJPanel.java" />
         <option value="$PROJECT_DIR$/src/com/czq/shenwu/constant/Strategy.java" />
-        <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiStartegy.java" />
         <option value="$PROJECT_DIR$/src/com/czq/shenwu/remote/IHello.java" />
         <option value="$PROJECT_DIR$/src/com/czq/shenwu/remote/Hello.java" />
         <option value="$PROJECT_DIR$/src/com/czq/shenwu/ui/view/jpanel/MiddleJPanel.java" />
         <option value="$PROJECT_DIR$/src/com/czq/shenwu/controller/controllerImpl/Controller.java" />
-        <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiFenYaoStrategyImpl.java" />
         <option value="$PROJECT_DIR$/src/com/czq/shenwu/main.java" />
         <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/PointCollection.java" />
-        <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/FenYaoStartegy.java" />
+        <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/pojo/ScreenInfo.java" />
+        <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/pojo/MouseOperate.java" />
         <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/OnArenaStrategyImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/FenYaoStartegy.java" />
         <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/FubenStartegy.java" />
+        <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiFenYaoStrategyImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiStartegy.java" />
+        <option value="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/MouseOperation.java" />
       </list>
     </option>
   </component>
@@ -246,67 +285,91 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ShenwuWaiGua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShenwuWaiGua" type="462c0819:PsiDirectoryNode" />
+              <item name="shenwuwaigua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shenwuwaigua" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ShenwuWaiGua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShenwuWaiGua" type="462c0819:PsiDirectoryNode" />
+              <item name="shenwuwaigua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shenwuwaigua" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ShenwuWaiGua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShenwuWaiGua" type="462c0819:PsiDirectoryNode" />
+              <item name="shenwuwaigua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shenwuwaigua" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
               <item name="artifacts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ShenwuWaiGua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShenwuWaiGua" type="462c0819:PsiDirectoryNode" />
+              <item name="shenwuwaigua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shenwuwaigua" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
               <item name="artifacts" type="462c0819:PsiDirectoryNode" />
               <item name="ShenwuWaiGua_jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ShenwuWaiGua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShenwuWaiGua" type="462c0819:PsiDirectoryNode" />
+              <item name="shenwuwaigua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shenwuwaigua" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ShenwuWaiGua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShenwuWaiGua" type="462c0819:PsiDirectoryNode" />
+              <item name="shenwuwaigua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shenwuwaigua" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shenwu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ShenwuWaiGua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShenwuWaiGua" type="462c0819:PsiDirectoryNode" />
+              <item name="shenwuwaigua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shenwuwaigua" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shenwu" type="462c0819:PsiDirectoryNode" />
               <item name="constant" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ShenwuWaiGua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShenwuWaiGua" type="462c0819:PsiDirectoryNode" />
+              <item name="shenwuwaigua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shenwuwaigua" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shenwu" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shenwuwaigua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shenwuwaigua" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shenwu" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="controllerImpl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shenwuwaigua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shenwuwaigua" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shenwu" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ShenwuWaiGua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShenwuWaiGua" type="462c0819:PsiDirectoryNode" />
+              <item name="shenwuwaigua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shenwuwaigua" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shenwu" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shenwuwaigua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shenwuwaigua" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shenwu" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
               <item name="bo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ShenwuWaiGua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShenwuWaiGua" type="462c0819:PsiDirectoryNode" />
+              <item name="shenwuwaigua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shenwuwaigua" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shenwu" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
@@ -314,8 +377,8 @@
               <item name="strategy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ShenwuWaiGua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShenwuWaiGua" type="462c0819:PsiDirectoryNode" />
+              <item name="shenwuwaigua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shenwuwaigua" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shenwu" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
@@ -324,49 +387,26 @@
               <item name="strategy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ShenwuWaiGua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShenwuWaiGua" type="462c0819:PsiDirectoryNode" />
+              <item name="shenwuwaigua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shenwuwaigua" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shenwu" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShenwuWaiGua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShenwuWaiGua" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="shenwu" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShenwuWaiGua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShenwuWaiGua" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="shenwu" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="jpanel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShenwuWaiGua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShenwuWaiGua" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="shenwu" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562502727291" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567925676300" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -490,16 +530,18 @@
       <workItem from="1562253297801" duration="291000" />
       <workItem from="1562379990051" duration="4097000" />
       <workItem from="1562497840347" duration="3019000" />
+      <workItem from="1567389082431" duration="13114000" />
+      <workItem from="1567922660432" duration="3043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="210460000" />
+    <option name="totallyTimeSpent" value="226617000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="61" y="25" width="1859" height="1055" extended-state="6" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22694644" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2313639" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -508,7 +550,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.6380753" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.73219216" weight="0.3656958" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.73164" visible="true" weight="0.36493936" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39972338" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -517,7 +559,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32901832" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.26780784" side_tool="true" visible="true" weight="0.32216215" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.26836002" side_tool="true" visible="true" weight="0.36493936" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49920633" weight="0.3236607" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -564,15 +606,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="分离宠物目标和任务目标" />
+    <option name="LAST_COMMIT_MESSAGE" value="分离宠物目标和任务目标" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/awt/Event.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="83" column="28" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/role/IRole.java" />
     <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/role/Impl/TcRoleImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/pojo/INpc.java" />
     <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/pojo/Npc.java" />
@@ -605,16 +643,6 @@
           <folding>
             <element signature="e#2036#2037#0" expanded="true" />
             <element signature="e#2063#2064#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/pojo/ScreenInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -665,43 +693,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/pojo/IThemeBGRInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/BGRCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="64" column="15" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1355#1356#0" expanded="true" />
-            <element signature="e#1408#1409#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/ui/view/button/JCheckButton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiStartegy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -821,65 +818,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/awt/event/InputEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="95" column="36" selection-start-line="95" selection-start-column="36" selection-end-line="95" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/controller/controllerImpl/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="106" column="42" selection-start-line="106" selection-start-column="32" selection-end-line="106" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiFenYaoStrategyImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/IStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/ui/IViewObserver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/ui/MainJFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="57" column="41" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2437#2438#0" expanded="true" />
-            <element signature="e#2465#2466#0" expanded="true" />
-            <element signature="e#2710#2711#0" expanded="true" />
-            <element signature="e#2755#2756#0" expanded="true" />
-            <element signature="e#2968#2969#0" expanded="true" />
-            <element signature="e#3009#3010#0" expanded="true" />
-            <element signature="e#3338#3339#0" expanded="true" />
-            <element signature="e#3376#3377#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -903,37 +845,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/FenYaoStartegy.java">
+    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/vo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="558">
           <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="40" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/PointCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="64" column="20" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -942,42 +864,118 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/PointStatsJudge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="66">
           <caret line="3" column="1" selection-start-line="2" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/ui/MainJFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="65" column="31" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2437#2438#0" expanded="true" />
+            <element signature="e#2465#2466#0" expanded="true" />
+            <element signature="e#2710#2711#0" expanded="true" />
+            <element signature="e#2755#2756#0" expanded="true" />
+            <element signature="e#2968#2969#0" expanded="true" />
+            <element signature="e#3009#3010#0" expanded="true" />
+            <element signature="e#3338#3339#0" expanded="true" />
+            <element signature="e#3376#3377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/PointCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="59" column="15" lean-forward="true" selection-start-line="59" selection-start-column="15" selection-end-line="59" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/IStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/pojo/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/pojo/IThemeBGRInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/controller/controllerImpl/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="165" column="36" selection-start-line="165" selection-start-column="36" selection-end-line="165" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/BGRCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/awt/event/InputEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="109" column="28" selection-start-line="109" selection-start-column="28" selection-end-line="109" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/pojo/ScreenInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/pojo/MouseOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/awt/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="83" column="28" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/RobotOperation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/MouseOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/vo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/OnArenaStrategyImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="82" column="90" selection-start-line="82" selection-start-column="90" selection-end-line="82" selection-end-column="90" />
+        <state relative-caret-position="330">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -986,11 +984,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/FubenStartegy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32">
-          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+        <state relative-caret-position="553">
+          <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2693#2694#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/FenYaoStartegy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="30" column="11" lean-forward="true" selection-start-line="30" selection-start-column="11" selection-end-line="31" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiStartegy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiFenYaoStrategyImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="24" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/OnArenaStrategyImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="93" column="36" selection-start-line="93" selection-start-column="36" selection-end-line="93" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/MouseOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
