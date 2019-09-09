@@ -28,6 +28,7 @@ public class FubenStartegy extends OnArenaStrategyImpl {
     @Override
     protected boolean confirmTarget(BufferedImage bi) {
         confirmMasterTarget(bi);
+        confirmPetTarget(bi);
         return true;
     }
 

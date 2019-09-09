@@ -90,10 +90,10 @@ public abstract class OnArenaStrategyImpl implements IStrategy {
     @Override
     public void execute(BufferedImage bi) {
         confirmTarget(bi);
-        if (masterOperate != null) {
+        if (masterOperate != null && masterOperate.getPoint() != null) {
             MouseOperation.operationMouse(masterOperate);
         }
-        if (petOperate != null) {
+        if (petOperate != null && petOperate.getPoint() != null) {
             MouseOperation.operationMouse(petOperate);
         }
 
@@ -149,7 +149,7 @@ public abstract class OnArenaStrategyImpl implements IStrategy {
         RobotOperation.getInstance().mouseMove(PointCollection.getInstance().banHpZeroPoint);
         ThreadUtil.sleep(50L);
         RobotOperation.getInstance().mouseRelease(KeyEvent.BUTTON3_MASK);
-        ThreadUtil.sleep(100L);
+        ThreadUtil.sleep(50L);
     }
 
     /**
