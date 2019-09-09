@@ -48,6 +48,9 @@ public class FubenStartegy extends OnArenaStrategyImpl {
             } else {
                 target = null;
             }
+        } else if (npcIsAlive(bi,PointCollection.NpcName.UNDER_FOURTH)) {
+            //击杀下排第四个
+            target = PointCollection.NpcName.UNDER_FOURTH.getPoint();
         } else if (npcIsAlive(bi,PointCollection.NpcName.UNDER_FIRST)) {
             //击杀下排第一个
             target = PointCollection.NpcName.UNDER_FIRST.getPoint();
@@ -64,8 +67,7 @@ public class FubenStartegy extends OnArenaStrategyImpl {
             target = null;
         }
         //判断是否半血以上
-        int mouseSelect = isEnoughHp(bi) ? KeyEvent.BUTTON3_MASK : KeyEvent.BUTTON1_MASK;
-        petOperate.setMouse(mouseSelect);
+        petOperate.setMouse(KeyEvent.BUTTON3_MASK );
         petOperate.setPoint(target);
     }
 
