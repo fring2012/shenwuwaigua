@@ -30,7 +30,8 @@ public class FenYaoStartegy extends OnArenaStrategyImpl {
         if (npcIsAlive(bi,PointCollection.NpcName.UNDER_FIFTH)) {
             masterOperate.setPoint(PointCollection.NpcName.UNDER_FIFTH.getPoint());
             masterOperate.setMouse(KeyEvent.BUTTON1_MASK);
-            petOperate.setPoint(PointCollection.NpcName.BOSS.getPoint());
+            petOperate.setPoint(new Point(PointCollection.getInstance().hpZeroPoint, SizeConstant.PU_TONG_ZHEN_BOSS_ZERO_HP_DX
+                    , SizeConstant.PU_TONG_ZHEN_BOSS_ZERO_HP_DY));
             petOperate.setMouse(KeyEvent.BUTTON3_MASK);
         } else {
             Point point =  new Point(PointCollection.getInstance().hpZeroPoint, SizeConstant.PU_TONG_ZHEN_BOSS_ZERO_HP_DX

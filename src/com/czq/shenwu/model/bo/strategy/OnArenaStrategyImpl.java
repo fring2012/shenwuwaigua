@@ -93,10 +93,11 @@ public abstract class OnArenaStrategyImpl implements IStrategy {
         if (masterOperate != null && masterOperate.getPoint() != null) {
             MouseOperation.operationMouse(masterOperate);
         }
+        ThreadUtil.sleep(50L);
         if (petOperate != null && petOperate.getPoint() != null) {
             MouseOperation.operationMouse(petOperate);
         }
-
+        ThreadUtil.sleep(50L);
     }
 
     /**

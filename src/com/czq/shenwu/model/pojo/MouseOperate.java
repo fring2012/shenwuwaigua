@@ -6,7 +6,7 @@ public class MouseOperate {
     //KeyEvent.BUTTON1_MASK是左键
     //KeyEvent.BUTTON3_MASK是右键
     private Point point;
-    private int mouse = KeyEvent.BUTTON1_MASK;
+    private int mouse = KeyEvent.BUTTON3_DOWN_MASK;
 
     public MouseOperate() {
 

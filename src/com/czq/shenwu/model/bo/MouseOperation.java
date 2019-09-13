@@ -14,8 +14,8 @@ import com.czq.shenwu.model.pojo.Point;
 public class MouseOperation {
 
     public static void operationMouse(MouseOperate mouseOperate) {
-        if (mouseOperate == null) {
-            LogUtils.d("MouseOperation","mouseOperate is null!!");
+        if (mouseOperate == null || mouseOperate.getPoint() == null) {
+            LogUtils.d("MouseOperation","mouseOperate or point is null!!");
             return;
         }
         mouseMoveAndClickMouse(mouseOperate.getPoint(),mouseOperate.getMouse());
@@ -34,7 +34,7 @@ public class MouseOperation {
      */
     public static void mouseMoveAndClickMouse(Point point, int mouse)  {
         RobotOperation.getInstance().mouseMove(point);
-        ThreadUtil.sleep(100L);
+        ThreadUtil.sleep(50L);
         clickMouseRelease(mouse);
     }
 
