@@ -7,9 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1410d48-f1c8-4ea6-8f04-4fc82ae01730" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/czq/shenwu/inputkey/MouseOperate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/czq/shenwu/inputkey/MouseTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C:/iport_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ShenwuWaiGua_jar/ShenwuWaiGua.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShenwuWaiGua_jar/ShenwuWaiGua.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/MouseShenWu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/MouseShenWu.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/constant/SizeConstant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/constant/SizeConstant.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/constant/Strategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/constant/Strategy.class" afterDir="false" />
@@ -20,7 +21,6 @@
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/base/NullObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/base/NullObject.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/base/NullQuery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/base/NullQuery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/BGRCollection$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/BGRCollection$Single.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/BGRCollection$Single.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/BGRCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/BGRCollection.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/MouseOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/MouseOperation.class" afterDir="false" />
@@ -29,7 +29,6 @@
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/PointCollection$Single.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/PointCollection$Single.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/PointCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/PointCollection.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/PointStatsJudge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/PointStatsJudge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/RobotOperation$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/RobotOperation$Single.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/RobotOperation$Single.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/RobotOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/RobotOperation.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/strategy/IStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/strategy/IStrategy.class" afterDir="false" />
@@ -39,6 +38,8 @@
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiFenYaoStrategyImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiFenYaoStrategyImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiStartegy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/bo/strategy/onarena/strategy/MiaoXiStartegy.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/pojo/IThemeBGRInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/pojo/IThemeBGRInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/pojo/MouseOperate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/pojo/MouseOperate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/pojo/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/pojo/Point.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/pojo/ScreenInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/pojo/ScreenInfo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/pojo/themebgrinfoImpl/BlueThemeBGRImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/pojo/themebgrinfoImpl/BlueThemeBGRImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/pojo/themebgrinfoImpl/GreenJDThemeBGRImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/model/pojo/themebgrinfoImpl/GreenJDThemeBGRImpl.class" afterDir="false" />
@@ -70,11 +71,8 @@
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/utils/LogUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/utils/LogUtils.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/utils/ThreadUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/utils/ThreadUtil.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/vo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShenwuWaiGua/com/czq/shenwu/vo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/MouseOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/MouseOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/OnArenaStrategyImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/OnArenaStrategyImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/FenYaoStartegy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/FenYaoStartegy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/FubenStartegy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/FubenStartegy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/czq/shenwu/model/pojo/MouseOperate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czq/shenwu/model/pojo/MouseOperate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/czq/shenwu/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czq/shenwu/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/czq/shenwu/utils/LogUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czq/shenwu/utils/LogUtils.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -115,11 +113,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.czq.shenwu.model.bo" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/czq/shenwu/view" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.czq.shenwu.inputkey" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.czq.shenwu.model.bo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -275,16 +276,5 @@
     <MESSAGE value="fuben策略没有决定宠物目标的错误" />
     <MESSAGE value="增加鼠标操作间隔" />
     <option name="LAST_COMMIT_MESSAGE" value="增加鼠标操作间隔" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/czq/shenwu/model/bo/strategy/onarena/strategy/FubenStartegy.java</url>
-          <line>73</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

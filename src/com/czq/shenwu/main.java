@@ -5,6 +5,7 @@ import com.czq.shenwu.controller.IController;
 import com.czq.shenwu.controller.controllerImpl.Controller;
 import com.czq.shenwu.ui.MainJFrame;
 import com.czq.shenwu.ui.view.IView;
+import com.czq.shenwu.utils.LogUtils;
 
 import javax.swing.*;
 
@@ -26,6 +27,7 @@ public class main {
 
         MainJFrame.getInstance().pack();
 
+        LogUtils.write_file(false);
 
 //        BufferedImage bi = RobotOperation.getInstance().createScreenCapture(ScreenInfo.rec);
 //        PointCollection.getInstance().obtainAllPoint(bi);

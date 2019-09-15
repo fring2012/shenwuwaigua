@@ -10,14 +10,16 @@ import java.util.logging.Logger;
 
 public class LogUtils {
     public static Logger logger = Logger.getLogger("logger name");
+
+    //日志初始化
     static {
-        logger.setLevel(Level.INFO);
+        logger.setLevel(Level.OFF);
     }
 
 
 
     private static boolean s_show_code_position = false;
-    private static boolean s_write_file = true;
+    private static boolean s_write_file = false;
     private static int offset;
     private static String m_log_path = "C:/iport_log.txt";
     private static int s_log_size = 500;
